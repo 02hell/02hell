@@ -1,16 +1,14 @@
-### Hi there 👋
+# My GitHub Profile
 
-<!--
-**kyle1dev/kyle1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate programmer working on various projects and constantly improving my technical skills. You can find more about me and my work at the links below.
 
-Here are some ideas to get you started:
+## Links
+- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **Email:** example@email.com
+- **Discord:** YourUsername#1234
+- **npm:** [npmjs.com/~YourUsername](https://www.npmjs.com/~YourUsername)
+- **YouTube:** [My YouTube Channel](https://www.youtube.com/user/YourChannelName)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+Feel free to reach out if you have any questions, inquiries, or if you'd like to collaborate on a project together.
