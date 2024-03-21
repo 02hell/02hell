@@ -12,7 +12,7 @@ I'm a passionate programmer dedicated to enhancing my technical skills and contr
 
 ## Awards
 <p align="left"><img align="right" alt="Profile Hits for Elteyab" src="https://komarev.com/ghpvc/?username=Tayeb-Ali&style=flat-square"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tayeb-Ali" alt="Tayeb-Ali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle1dev" alt="kyle1dev" /></a> </p>
 
 ## Contact Me 📞
 Feel free to reach out for questions, inquiries, or collaboration opportunities. Let's build something amazing together!
