@@ -23,5 +23,8 @@ I'm a passionate programmer dedicated to enhancing my technical skills and contr
 ![mongodb](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![amazon_aws](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb-Ali)](https://github.com/Tayeb-Ali/github-readme-stats)
+
 ## Contact Me 📞
 Feel free to reach out for questions, inquiries, or collaboration opportunities. Let's build something amazing together!
