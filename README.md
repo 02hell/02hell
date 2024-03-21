@@ -1,4 +1,4 @@
-Hi 👋, I'm Kyle Or Turki
+# Hi 👋, I'm Kyle Or Turki
 
 ## About Me ℹ️
 I'm a passionate programmer dedicated to enhancing my technical skills and contributing to various projects. Whether it's developing software solutions or exploring new technologies, I thrive on challenges and opportunities to learn and grow.
