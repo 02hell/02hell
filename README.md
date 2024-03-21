@@ -14,5 +14,14 @@ I'm a passionate programmer dedicated to enhancing my technical skills and contr
 <p align="left"><img align="right" alt="Profile Hits for Elteyab" src="https://komarev.com/ghpvc/?username=Tayeb-Ali&style=flat-square"></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle1dev" alt="kyle1dev" /></a> </p>
 
+-----
+### 🗄️ Other things that I like to work with.
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![amazon_aws](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ## Contact Me 📞
 Feel free to reach out for questions, inquiries, or collaboration opportunities. Let's build something amazing together!
