@@ -6,7 +6,7 @@ I'm a passionate programmer dedicated to enhancing my technical skills and contr
 ## Links 🔗
 - **GitHub:** [kyle1dev](https://github.com/kyle1dev) 🖥️
 - **Email:** kyle.dev@mail.ru ✉️
-- **Discord:** x02.kyle/back.2hell 💬
+- **Discord:** [x02.kyle](https://discord.com/users/457620626446745631) 💬
 - **npm:** [npmjs.com/~kyle.dev](https://www.npmjs.com/~kyle.dev) 📦
 - **YouTube:** [Kyle1dev](https://www.youtube.com/@TX-1) 📺
 
