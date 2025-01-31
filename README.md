@@ -59,7 +59,7 @@ Just your average genius who happens to code. Not here to make friends, just to 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyle1dev&color=red&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=02hell&color=red&style=flat-square" />
 </div>
 
 ---
