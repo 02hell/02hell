@@ -11,10 +11,12 @@
 Just your average genius who happens to code. Not here to make friends, just to push boundaries and break stuff. If you can't keep up, that's your problem 🤷‍♂️
 
 ### What I do
-- Break things first, fix them later (maybe)
-- Write code that makes your code look like a joke
-- Ship features faster than you can say "documentation"
-- Make impossible deadlines my b*tch
+- Architect solutions while others still debug their "Hello World"
+- Push code that makes senior devs question their career choices
+- Turn "impossible" requirements into my daily commits
+- Scale systems that handle millions while others worry about hundreds
+- Build entire ecosystems while others celebrate their first API
+- Master new tech stacks in the time it takes you to read docs
 
 ### Tech Stack
 > *"If it works, I probably mastered it already"*
@@ -57,7 +59,7 @@ Just your average genius who happens to code. Not here to make friends, just to 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=02hell&color=red&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kyle1dev&color=red&style=flat-square" />
 </div>
 
 ---
