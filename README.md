@@ -23,16 +23,12 @@ Just your average genius who happens to code. Not here to make friends, just to 
 
 <div align="center">
   
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,c,php,dart,lua,bash" /><br>
   
-  <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=nodejs,react,next,express,flutter,flask,tensorflow,pytorch" /><br>
   
-  <!-- Databases & Tools -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,unreal,figma" /><br>
   
-  <!-- Security & DevOps -->
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx" />
 </div>
 
