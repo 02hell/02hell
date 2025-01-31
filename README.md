@@ -20,8 +20,30 @@ Just your average genius who happens to code. Not here to make friends, just to 
 > *"If it works, I probably mastered it already"*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,rust,kubernetes" />
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,c,php,dart,lua,bash" /><br>
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next,express,flutter,flask,tensorflow,pytorch" /><br>
+  
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,unreal,figma" /><br>
+  
+  <!-- Security & DevOps -->
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx" />
 </div>
+
+<details>
+<summary>🔒 Security & Advanced Skills</summary>
+
+- 🛡️ Application Security Specialist
+- 🔐 Cryptography Expert (RSA/AES)
+- 🕵️ Penetration Testing
+- 🤖 Machine Learning & NLP
+- 🎨 UI/UX Design
+- 🔧 System Architecture
+</details>
 
 ### Find me elsewhere
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31knj2ne57xvwaadl72skwgzdva4)
