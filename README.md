@@ -92,10 +92,6 @@ $ whoami
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
       </td>
-      <td align="center" width="96">
-        <img src="https://devicons.railway.app/i/robloxstudio.svg" width="48" height="48" alt="Roblox Studio" />
-        <br>Roblox
-      </td>
     </tr>
   </table>
 </div>
